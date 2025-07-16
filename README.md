@@ -51,7 +51,7 @@ This Repos contains all kind of ressources from general to specific concept for 
 
 - [Basic Concept in Population Modeling - Part 1. Mould & Upton, CPT-PSP, 2012](https://pubmed.ncbi.nlm.nih.gov/23835886/)  
 - [Basic Concept in Population Modeling - Part 2. Mould & Upton, CPT-PSP, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3636497/)  
-- [Basic Concept in Population Modeling - Part 3. Mould & Upton, CPT-PSP, 2014](https://pubmed.ncbi.nlm.nih.gov/23887688/)  
+- [Basic Concept in Population Modeling - Part 3. Mould & Upton, CPT-PSP, 2014](https://pubmed.ncbi.nlm.nih.gov/24384783/)  
 
 ### III.2 - Physiologically-Based Pharmacokinetics (PBPK) and Physiologically Based Biopharmaceutics Modeling (PBBM)
 
