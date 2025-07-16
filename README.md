@@ -31,3 +31,23 @@
 
 - [Introduction to Survival Analysis in R](https://www.emilyzabor.com/survival-analysis-in-r.html)
 - [Applied Survival Analysis Using R. Dirk F. Moore (Book)](https://xsliulab.github.io/Workshop/2021/week3/survival-analysis-book.pdf)
+
+
+# III - Pharmacokinetics tutorial
+
+## III.1 - Population Pharmacokinetics
+
+- [Basic Concept in Population Modeling - Part 1. Mould & Upton, CPT-PSP, 2012](https://pubmed.ncbi.nlm.nih.gov/23835886/)  
+- [Basic Concept in Population Modeling - Part 2. Mould & Upton, CPT-PSP, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3636497/)  
+- [Basic Concept in Population Modeling - Part 3. Mould & Upton, CPT-PSP, 2014](https://pubmed.ncbi.nlm.nih.gov/23887688/)  
+
+## III.2 - Physiologically-Based Pharmacokinetics (PBPK) and Physiologically Based Biopharmaceutics Modeling (PBBM)
+
+### PBPK
+
+- [Introduction to PBPK. Kuepfer et al. CPT-PSP, 2016.](https://pubmed.ncbi.nlm.nih.gov/27653238/)
+  
+### PBBM
+
+- [PBBM Overview (2023)](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c00202)
+
