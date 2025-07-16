@@ -26,6 +26,7 @@ This Repos contains all kind of ressources from general to specific concept for 
 ### II.2 - Report Generation using Quarto
 
 - [Official Quarto Guide](https://quarto.org/docs/guide/)
+- [Icones for Markdown and Quarto](https://gist.github.com/rxaviers/7360908)
 
 
 ### II.3 - Advanced R topics
