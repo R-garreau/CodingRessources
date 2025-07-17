@@ -23,6 +23,7 @@ This Repos contains all kind of ressources from general to specific concept for 
 - [Golem For Shiny](https://engineering-shiny.org/golem.html)
 - [The Epidemiologist Handbook. From base R to all type of Data Analysis](https://www.epirhandbook.com/en/new_pages/survival_analysis.html)
 - [Machine Learning and Modelling with TidyModels](https://www.tmwr.org/)
+- [Visualise data with GGPlot2](https://ggplot2-book.org/)
 
 ### II.2 - Report Generation using Quarto
 
