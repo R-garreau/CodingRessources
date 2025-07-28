@@ -39,7 +39,9 @@ This Repos contains all kind of ressources from general to specific concept for 
 
 #### Data Imputation
 
+- [Multiple Imputation by Chaine Equation (MICE) Package Book, R](https://amices.org/mice/)  
 - [Imputation with Multiple Chaine equation (MICE) in R. Tutorial](https://rmisstastic.netlify.app/tutorials/erler_course_multipleimputation_2018/erler_practical_mice_2018#structure_of_mipo_objects)
+- [Flexible Data Imputation, S. VanBureen](https://stefvanbuuren.name/fimd/sec-missmult.html) *contain information on longitudinal imputation*  
 - [Check Post Imputation with MICE (R)](https://www.nerler.com/teaching/fgme2019/micheck)
 
 #### Survival analysis
