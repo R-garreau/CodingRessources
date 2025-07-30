@@ -1,12 +1,16 @@
+
 ## CodingRessources
+### About
+CodingRessources is a curated collection of tutorials, documentation, and tools for coding with R, report generation (Quarto), Shiny app development, and pharmacometric modeling.
+This repository is designed for students and anyone eager to learn modern methods in pharmacometric analysis, clinical study design, and related computational topics.
 
-This Repos contains all kind of ressources from general to specific concept for : 
 
-- coding using R  
-- Report generation using Quarto  
-- Application creation using Shiny  
-- Population pharmaockinetics concept and Tutorial  
-- PBPK/PBBM concept and Tutorial  
+## Table of Contents :  
+1. [General Knowledge](#general-knowledge)
+2. [R Documentation & Tutorials](#documentation-for-r)
+3. [Pharmacokinetics Tutorials](#pharmacokinetics-tutorials)
+4. [Contributing](#contributing)
+
 
 ## I - General knowledge
 
@@ -50,7 +54,7 @@ This Repos contains all kind of ressources from general to specific concept for 
 - [Applied Survival Analysis Using R. Dirk F. Moore (Book)](https://xsliulab.github.io/Workshop/2021/week3/survival-analysis-book.pdf)
 
 
-## III - Pharmacokinetics tutorial
+## III - Pharmacokinetics tutorials
 
 ### III.1 - Population Pharmacokinetics
 
@@ -68,3 +72,11 @@ This Repos contains all kind of ressources from general to specific concept for 
 
 - [PBBM Overview (2023)](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c00202)
 
+
+# Contributing
+The goal of this repository is to provide a comprehensive list of high-quality tutorials and tools for students and professionals interested in pharmacometric analysis and clinical study design.
+
+Maintained by: R. Garreau
+
+Contributions are welcome!
+If you have suggestions, new resources, or corrections, please open an issue or submit a pull request.
