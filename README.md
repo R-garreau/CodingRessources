@@ -1,82 +1,91 @@
+# CodingRessources
 
-## CodingRessources
-### About
-CodingRessources is a curated collection of tutorials, documentation, and tools for coding with R, report generation (Quarto), Shiny app development, and pharmacometric modeling.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Last Updated](https://img.shields.io/github/last-commit/R-garreau/CodingRessources/dev)](https://github.com/R-garreau/CodingRessources/commits/dev)
+
+---
+
+## About
+
+**CodingRessources** is a curated collection of tutorials, documentation, and tools for coding with R, report generation (Quarto), Shiny app development, and pharmacometric modeling.  
 This repository is designed for students and anyone eager to learn modern methods in pharmacometric analysis, clinical study design, and related computational topics.
 
+---
 
-## Table of Contents :  
+## Table of Contents
+
 1. [General Knowledge](#general-knowledge)
-2. [R Documentation & Tutorials](#documentation-for-r)
+2. [R Documentation & Tutorials](#r-documentation--tutorials)
 3. [Pharmacokinetics Tutorials](#pharmacokinetics-tutorials)
 4. [Contributing](#contributing)
 
+---
 
-## I - General knowledge
+## General Knowledge
 
-- [General Coding Knowledge](https://github.com/mtdvio/every-programmer-should-know)  
-- [General Coding Pattern For several language and database](https://github.com/DovAmir/awesome-design-patterns)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Awesome Design Patterns (Multiple Languages & Databases)](https://github.com/DovAmir/awesome-design-patterns)
 
+---
 
-## II - Doumentation for R
+## R Documentation & Tutorials
 
-### II.1 - General R book
+### General R Books
 
-- [R for DataScience](https://r4ds.hadley.nz/)
+- [R for Data Science](https://r4ds.hadley.nz/)
 - [Mastering Shiny](https://mastering-shiny.org/)
-- [Golem For Shiny](https://engineering-shiny.org/golem.html)
-- [The Epidemiologist Handbook. From base R to all type of Data Analysis](https://www.epirhandbook.com/en/new_pages/survival_analysis.html)
-- [Machine Learning and Modelling with TidyModels](https://www.tmwr.org/)
-- [Visualise data with GGPlot2](https://ggplot2-book.org/)
+- [Golem for Shiny](https://engineering-shiny.org/golem.html)
+- [Epidemiologist Handbook: From Base R to Data Analysis](https://www.epirhandbook.com/en/new_pages/survival_analysis.html)
+- [Machine Learning & Modelling with TidyModels](https://www.tmwr.org/)
+- [Data Visualization with ggplot2](https://ggplot2-book.org/)
 
-### II.2 - Report Generation using Quarto
+### Report Generation with Quarto
 
 - [Official Quarto Guide](https://quarto.org/docs/guide/)
-- [Icones for Markdown and Quarto](https://gist.github.com/rxaviers/7360908)
+- [Icons for Markdown and Quarto](https://gist.github.com/rxaviers/7360908)
 
-
-### II.3 - Advanced R topics
+### Advanced R Topics
 
 #### Meta-Analysis
 
-- [Meta-Analysis From Concept to Application in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+- [Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
 
 #### Data Imputation
 
-- [Multiple Imputation by Chaine Equation (MICE) Package Book, R](https://amices.org/mice/)  
-- [Imputation with Multiple Chaine equation (MICE) in R. Tutorial](https://rmisstastic.netlify.app/tutorials/erler_course_multipleimputation_2018/erler_practical_mice_2018#structure_of_mipo_objects)
-- [Flexible Data Imputation, S. VanBureen](https://stefvanbuuren.name/fimd/sec-missmult.html) *contain information on longitudinal imputation*  
-- [Check Post Imputation with MICE (R)](https://www.nerler.com/teaching/fgme2019/micheck)
+- [MICE Package Book (Multiple Imputation)](https://amices.org/mice/)
+- [MICE in R: Practical Tutorial](https://rmisstastic.netlify.app/tutorials/erler_course_multipleimputation_2018/erler_practical_mice_2018#structure_of_mipo_objects)
+- [Flexible Imputation (Longitudinal Data) - S. Van Buuren](https://stefvanbuuren.name/fimd/sec-missmult.html)
+- [Post-Imputation Checks with MICE](https://www.nerler.com/teaching/fgme2019/micheck)
 
-#### Survival analysis
+#### Survival Analysis
 
 - [Introduction to Survival Analysis in R](https://www.emilyzabor.com/survival-analysis-in-r.html)
-- [Applied Survival Analysis Using R. Dirk F. Moore (Book)](https://xsliulab.github.io/Workshop/2021/week3/survival-analysis-book.pdf)
+- [Applied Survival Analysis Using R (Book)](https://xsliulab.github.io/Workshop/2021/week3/survival-analysis-book.pdf)
 
+---
 
-## III - Pharmacokinetics tutorials
+## Pharmacokinetics Tutorials
 
-### III.1 - Population Pharmacokinetics
+### Population Pharmacokinetics
 
-- [Basic Concept in Population Modeling - Part 1. Mould & Upton, CPT-PSP, 2012](https://pubmed.ncbi.nlm.nih.gov/23835886/)  
-- [Basic Concept in Population Modeling - Part 2. Mould & Upton, CPT-PSP, 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3636497/)  
-- [Basic Concept in Population Modeling - Part 3. Mould & Upton, CPT-PSP, 2014](https://pubmed.ncbi.nlm.nih.gov/24384783/)  
+- [Basic Concepts in Population Modeling - Part 1 (Mould & Upton, 2012)](https://pubmed.ncbi.nlm.nih.gov/23835886/)
+- [Part 2 (Mould & Upton, 2013)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3636497/)
+- [Part 3 (Mould & Upton, 2014)](https://pubmed.ncbi.nlm.nih.gov/24384783/)
 
-### III.2 - Physiologically-Based Pharmacokinetics (PBPK) and Physiologically Based Biopharmaceutics Modeling (PBBM)
+### PBPK & PBBM
 
-#### PBPK
+- **PBPK:** [Introduction to PBPK (Kuepfer et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/27653238/)
+- **PBBM:** [PBBM Overview (2023)](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c00202)
 
-- [Introduction to PBPK. Kuepfer et al. CPT-PSP, 2016.](https://pubmed.ncbi.nlm.nih.gov/27653238/)
-  
-#### PBBM
+---
 
-- [PBBM Overview (2023)](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.4c00202)
+## Contributing
 
-
-# Contributing
 The goal of this repository is to provide a comprehensive list of high-quality tutorials and tools for students and professionals interested in pharmacometric analysis and clinical study design.
 
-Maintained by: R. Garreau
+**Maintained by:** R. Garreau
 
-Contributions are welcome!
+Contributions are welcome!  
 If you have suggestions, new resources, or corrections, please open an issue or submit a pull request.
+
+---
