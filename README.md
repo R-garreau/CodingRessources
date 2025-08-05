@@ -38,6 +38,7 @@ This repository is designed for students and anyone eager to learn modern method
 - [Epidemiologist Handbook: From Base R to Data Analysis](https://www.epirhandbook.com/en/new_pages/survival_analysis.html)
 - [Machine Learning & Modelling with TidyModels](https://www.tmwr.org/)
 - [Data Visualization with ggplot2](https://ggplot2-book.org/)
+- [What They Forgot to Teach You About R](https://rstats.wtf/)
 
 ### Report Generation with Quarto
 
