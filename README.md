@@ -30,6 +30,9 @@ This repository is designed for students and anyone eager to learn modern method
 
 ## R Documentation & Tutorials
 
+### Introduction to R for Beginner
+- [R for Non Programmer. D. Dauber, 2025](https://r4np.com/)
+
 ### General R Books
 
 - [R for Data Science](https://r4ds.hadley.nz/)
